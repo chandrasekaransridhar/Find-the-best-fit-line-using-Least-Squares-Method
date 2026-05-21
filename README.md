@@ -64,8 +64,7 @@ Program to implement univariate Linear Regression to fit a straight line using l
 RegisterNumber: 212225040425**
 
 ## Output:
-<img width="1090" height="500" alt="image" src="https://github.com/user-attachments/assets/8edaf261-550d-45b5-b5c0-d4d17f0a2f15" />
-
+<img width="1112" height="489" alt="image" src="https://github.com/user-attachments/assets/af317111-013d-4eba-a874-9cb720510b70" />
 
 
 
